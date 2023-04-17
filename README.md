@@ -2,19 +2,21 @@
 
 HTML5, CSS3, Python, OracleDBMS, Team Project
 
-## HTML5
+#### 1. HTML5
 - Using VSCODE
 
-## CSS3
+#### 2. CSS3
 - Using VSCODE
 
-## Python
+#### 3. Python
 - Python example tests
 - Using VSCODE
  
-## OracleDBMS
+#### 4. OracleDBMS
 - MySQL, MariaDB
 - Using SQL Developer
 
-## Team Project
+#### 5. Team Project
 - Popcorn Team
+
+![프로필 이미지](./som2.PNG)
