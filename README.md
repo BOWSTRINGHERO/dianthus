@@ -1,5 +1,20 @@
-# dianthus
+# Project 소개
 
-# dianthus 저장소 입니다
------
-collaboration
+HTML5, CSS3, Python, OracleDBMS, Team Project
+
+## HTML5
+- Using VSCODE
+
+## CSS3
+- Using VSCODE
+
+## Python
+- Python example tests
+- Using VSCODE
+ 
+## OracleDBMS
+- MySQL, MariaDB
+- Using SQL Developer
+
+## Team Project
+- Popcorn Team
